@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "type" : "document",
+        "title" : "string",
+        "description" : "string",
+        "date_created" : "DATE()",
+        "date_edited" : "DATE()"
+    },
+    "data" : [
+        {
+            "type" : "text, image, link",
+            "id" : "UUIDv4",
+            "title" : "string",
+            "info" : "string -> longer description (written by user)",
+            "x" : 0,
+            "y" : 0,
+            "parent" : "UUID of Parent"
+        },
+        {
+            "type" : "text, image, link",
+            "id" : "UUIDv4",
+            "title" : "string",
+            "info" : "string -> longer description (written by user)",
+            "x" : 50,
+            "y" : 50,
+            "parent" : "UUID of Parent"
+        }
+    ]
+}

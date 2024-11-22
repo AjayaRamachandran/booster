@@ -1,0 +1,17 @@
+{
+    "owner": "Owner User ID",
+    "contributors": [
+        "Contributor User ID 1",
+        "Contributor User ID 2",
+        "Contributor User ID 3"
+    ],
+    "projectUUID": "UUIDv4 - this gets pushed to userdata.associatedProjects",
+    "projectName": "Project Name",
+    "associatedTaskIDs": [
+        "associatedTaskID-1",
+        "associatedTaskID-2",
+        "associatedTaskID-3",
+        "associatedTaskID-4"
+    ],
+    "created_at": "Date"
+}

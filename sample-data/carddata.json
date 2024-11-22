@@ -1,0 +1,40 @@
+{
+    "taskID": "UUIDv4 - this gets pushed to projectdata.associatedTaskIDs",
+    "subtasks": [
+        {
+            "subtaskID": "taskID-1",
+            "title": "Subtask Title",
+            "subtasks": [],
+            "description": "Subtask Description",
+            "status": "NotDone, InProgress, Done",
+            "shared": {
+                "isShared": true,
+                "sharedWith": [
+                    "User ID 1",
+                    "User ID 2",
+                    "User ID 3"
+                ]
+            }
+        },
+        {
+            "subtaskID": "taskID-2",
+            "title": "Subtask Title",
+            "subtasks": [],
+            "description": "Subtask Description",
+            "status": "NotDone, InProgress, Done",
+            "shared": {
+                "isShared": false,
+                "sharedWith": []
+            }
+        }
+    ],
+    "title": "Task Title",
+    "description": "Task Description",
+    "status": "NotDone, InProgress, Done",
+    "shared": {
+        "isShared": true,
+        "sharedWith": [
+            "User ID 1"
+        ]
+    }
+}

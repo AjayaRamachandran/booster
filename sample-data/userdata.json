@@ -1,0 +1,13 @@
+{
+    "userdata": {
+        "name": "John Doe",
+        "email": "email@eexample.com",
+        "userid": "UUIDv4",
+        "associatedProjects": [
+            "projectdata.projectUUID 1",
+            "projectdata.projectUUID 2",
+            "projectdata.projectUUID 3"
+        ],
+        "created_at": "Date"
+    }
+}
