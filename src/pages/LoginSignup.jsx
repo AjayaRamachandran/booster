@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import '../assets/styles/LoginSignup.css'
 import React, { useState } from 'react';
-import InputField from './InputField.jsx';
+import InputField from '../components/InputField.jsx';
 
 function FormButton({text, type}) {
     return (
